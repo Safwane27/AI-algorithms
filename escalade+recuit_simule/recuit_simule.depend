@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1388245198 source:/home/alaouy/Desktop/ai/recuit_simule/graphemat.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"graphemat.h"
+
+1387916522 /home/alaouy/Desktop/ai/recuit_simule/graphemat.h
+	<limits.h>
+
+1387916268 source:/home/alaouy/Desktop/ai/recuit_simule/liregraphe.cpp
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"graphemat.h"
+
+1432757743 source:/home/alaouy/Desktop/ai/recuit_simule/maingraphemat.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"graphemat.h"
+	"liregraphe.h"
+	<math.h>
+
+1387916238 /home/alaouy/Desktop/ai/recuit_simule/liregraphe.h
+
+1388245198 source:/home/alaouy/Downloads/partage/amine/recuit_simule/graphemat.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"graphemat.h"
+
+1387916522 /home/alaouy/Downloads/partage/amine/recuit_simule/graphemat.h
+	<limits.h>
+
+1387916268 source:/home/alaouy/Downloads/partage/amine/recuit_simule/liregraphe.cpp
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"graphemat.h"
+
+1432757743 source:/home/alaouy/Downloads/partage/amine/recuit_simule/maingraphemat.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"graphemat.h"
+	"liregraphe.h"
+	<math.h>
+
+1387916238 /home/alaouy/Downloads/partage/amine/recuit_simule/liregraphe.h
+
+1388245198 source:c:\users\user\desktop\amine\recuit_simule\graphemat.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"graphemat.h"
+
+1387916522 c:\users\user\desktop\amine\recuit_simule\graphemat.h
+	<limits.h>
+
+1387916268 source:c:\users\user\desktop\amine\recuit_simule\liregraphe.cpp
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"graphemat.h"
+
+1432757743 source:c:\users\user\desktop\amine\recuit_simule\maingraphemat.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"graphemat.h"
+	"liregraphe.h"
+	<math.h>
+
+1387916238 c:\users\user\desktop\amine\recuit_simule\liregraphe.h
+

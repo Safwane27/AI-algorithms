@@ -1,0 +1,147 @@
+# depslib dependency file v1.0
+1429213077 source:c:\users\user\desktop\code_graphe2\graphemat.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"graphemat.h"
+
+1387916268 .h"
+
+1429213077 c:\users\user\desktop\code_graphe2\graphemat.h
+	<limits.h>
+
+1387916522 
+
+1429213077 source:c:\users\user\desktop\code_graphe2\liregraphe.cpp
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"graphemat.h"
+
+1429231450 source:c:\users\user\desktop\code_graphe2\maingraphemat.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"graphemat.h"
+	"liregraphe.h"
+
+1429232356 e.h"
+
+1429213077 c:\users\user\desktop\code_graphe2\liregraphe.h
+
+1388245198 source:c:\users\user\desktop\s8\ia\intelligence articficielle\tpplusprochevoisin\prochevoisin\graphemat.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"graphemat.h"
+
+1387916522 c:\users\user\desktop\s8\ia\intelligence articficielle\tpplusprochevoisin\prochevoisin\graphemat.h
+	<limits.h>
+
+1387916268 source:c:\users\user\desktop\s8\ia\intelligence articficielle\tpplusprochevoisin\prochevoisin\liregraphe.cpp
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"graphemat.h"
+
+1429232356 source:c:\users\user\desktop\s8\ia\intelligence articficielle\tpplusprochevoisin\prochevoisin\maingraphemat.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"graphemat.h"
+	"liregraphe.h"
+
+1387916238 c:\users\user\desktop\s8\ia\intelligence articficielle\tpplusprochevoisin\prochevoisin\liregraphe.h
+
+1388245198 source:c:\users\user\desktop\s8\ia\intelligence artificielle\tpplusprochevoisin\tpplusprochevoisin\prochevoisin\graphemat.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"graphemat.h"
+
+1387916522 c:\users\user\desktop\s8\ia\intelligence artificielle\tpplusprochevoisin\tpplusprochevoisin\prochevoisin\graphemat.h
+	<limits.h>
+
+1387916268 source:c:\users\user\desktop\s8\ia\intelligence artificielle\tpplusprochevoisin\tpplusprochevoisin\prochevoisin\liregraphe.cpp
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"graphemat.h"
+
+1429232356 source:c:\users\user\desktop\s8\ia\intelligence artificielle\tpplusprochevoisin\tpplusprochevoisin\prochevoisin\maingraphemat.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"graphemat.h"
+	"liregraphe.h"
+
+1387916238 c:\users\user\desktop\s8\ia\intelligence artificielle\tpplusprochevoisin\tpplusprochevoisin\prochevoisin\liregraphe.h
+
+1388245198 source:/home/alaouy/Downloads/partage/AitLahcen/TPplusprochevoisin/TPplusprochevoisin/prochevoisin/graphemat.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"graphemat.h"
+
+1387916522 /home/alaouy/Downloads/partage/AitLahcen/TPplusprochevoisin/TPplusprochevoisin/prochevoisin/graphemat.h
+	<limits.h>
+
+1387916268 source:/home/alaouy/Downloads/partage/AitLahcen/TPplusprochevoisin/TPplusprochevoisin/prochevoisin/liregraphe.cpp
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"graphemat.h"
+
+1388245198 source:/home/alaouy/Desktop/ia/plusprochevoisin/graphemat.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"graphemat.h"
+
+1387916522 /home/alaouy/Desktop/ia/plusprochevoisin/graphemat.h
+	<limits.h>
+
+1387916268 source:/home/alaouy/Desktop/ia/plusprochevoisin/liregraphe.cpp
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"graphemat.h"
+
+1432700279 source:/home/alaouy/Desktop/ia/plusprochevoisin/maingraphemat.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"graphemat.h"
+	"liregraphe.h"
+
+1387916238 /home/alaouy/Desktop/ia/plusprochevoisin/liregraphe.h
+
+1388245198 source:/home/alaouy/Desktop/ai/plusprochevoisin/graphemat.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"graphemat.h"
+
+1387916522 /home/alaouy/Desktop/ai/plusprochevoisin/graphemat.h
+	<limits.h>
+
+1387916268 source:/home/alaouy/Desktop/ai/plusprochevoisin/liregraphe.cpp
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"graphemat.h"
+
+1432701506 source:/home/alaouy/Desktop/ai/plusprochevoisin/maingraphemat.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"graphemat.h"
+	"liregraphe.h"
+
+1387916238 /home/alaouy/Desktop/ai/plusprochevoisin/liregraphe.h
+

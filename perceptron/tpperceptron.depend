@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1431992247 source:c:\users\user\documents\c++ projects\tpperceptron\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1432760202 source:c:\users\user\desktop\amine\tpperceptron\main.c
+	<stdio.h>
+	<stdlib.h>
+

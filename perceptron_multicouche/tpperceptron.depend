@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1432251724 source:c:\users\user\documents\c++ projects\tpperceptron\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1432746411 source:c:\users\user\documents\c++ projects\tpperceptron1 - copie\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1432750336 source:c:\users\user\documents\c++ projects\perceptron_multicouche\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+
+1432761948 source:c:\users\user\desktop\amine\perceptron_multicouche_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+
